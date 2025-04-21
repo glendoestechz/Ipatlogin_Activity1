@@ -63,7 +63,7 @@ const Dashboard = () => {
         }}
       >
         <Typography variant="h4" sx={{ color: "#333", mb: 2 }}>
-          Welcome {user}
+          AKO SI {user}
         </Typography>
         <TextField
           label="New Item"
